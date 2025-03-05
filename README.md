@@ -16,17 +16,17 @@ A Bash script to extract unique words from URLs, perfect for creating custom wor
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/wordlist-maker.git
-   cd wordlist-maker
+   git clone https://github.com/siuxsa/Wordlist-Generator.git
+   cd Wordlist-Generator
    ```
 
 2. **Make the Script Executable**:
    ```bash
-   chmod +x wordlist-maker.sh
+   chmod +x wordlist maker.sh
    ```
 3. **Usage**
    ```bash
-   ./wordlist-maker.sh -l <input_file> -o <output_file>
+   ./wordlist maker.sh -l <input_file> -o <output_file>
    ```
 ## How It Works
 
